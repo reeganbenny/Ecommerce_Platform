@@ -30,6 +30,7 @@
     "mongoose": "^5.2.17",
     "nodemailer": "^4.6.8",
     "nodemailer-sendgrid-transport": "^0.2.0",
-    "pug": "^2.0.3"
+    "pug": "^2.0.3",
+    "stripe": "^12.7.0"
   }
 }
